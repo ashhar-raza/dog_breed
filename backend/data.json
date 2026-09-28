@@ -1,0 +1,466 @@
+{
+  "data": [
+    {
+      "id": "036feed0-da8a-42c9-ab9a-57449b530b13",
+      "type": "breed",
+      "attributes": {
+        "name": "Affenpinscher",
+        "description": "The Affenpinscher is a small and playful breed of dog that was originally bred in Germany for hunting small game. They are intelligent, energetic, and affectionate, and make excellent companion dogs.",
+        "life": {
+          "max": 16,
+          "min": 14
+        },
+        "male_weight": {
+          "max": 6,
+          "min": 4
+        },
+        "female_weight": {
+          "max": 6,
+          "min": 4
+        },
+        "hypoallergenic": true,
+        "male_height": {
+          "max": 29,
+          "min": 23
+        },
+        "female_height": {
+          "max": 29,
+          "min": 23
+        },
+        "origin": {
+          "era": "17th century",
+          "region": "Central Europe",
+          "country": "Germany"
+        },
+        "coat": {
+          "type": "wire",
+          "colors": [
+            "black",
+            "gray",
+            "silver",
+            "red",
+            "black and tan"
+          ],
+          "length": "short"
+        },
+        "traits": {
+          "energy": 3,
+          "barking": 3,
+          "drooling": 1,
+          "grooming": 3,
+          "shedding": 2,
+          "temperament": [
+            "confident",
+            "curious",
+            "stubborn",
+            "playful",
+            "alert",
+            "mischievous"
+          ],
+          "trainability": 3,
+          "good_with_dogs": 3,
+          "exercise_minutes": 30,
+          "apartment_friendly": 5,
+          "good_with_children": 3,
+          "good_with_strangers": 2
+        },
+        "other_names": [
+          "Monkey Terrier",
+          "Affen",
+          "Diablotin Moustachu"
+        ],
+        "recognized_by": [
+          "AKC",
+          "FCI",
+          "UKC",
+          "KC",
+          "CKC",
+          "ANKC",
+          "NZKC"
+        ],
+        "sources": [
+          {
+            "url": "https://images.akc.org/pdf/breeds/standards/Affenpinscher.pdf",
+            "title": "Official Standard of the Affenpinscher (AKC)"
+          },
+          {
+            "url": "https://www.ukcdogs.com/docs/breeds/affenpinscher-breed-standard.pdf",
+            "title": "AFFENPINSCHER Official UKC Breed Standard"
+          },
+          {
+            "url": "https://brit-petfood.com/en/breed-catalog/pinscher-and-schanuzer-molossoid-breeds-swiss-mountain-and-cattle-dogs/affenpinscher",
+            "title": "Affenpinscher – FCI Group II breed catalog"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Affenpinscher",
+            "title": "Affenpinscher - Wikipedia"
+          },
+          {
+            "url": "https://www.akc.org/expert-advice/dog-breeds/affenpinscher-history/",
+            "title": "Affenpinscher History: Where the Breed Originated"
+          }
+        ],
+        "images": [
+          {
+            "id": "1861dc37-a00b-4e34-b9b8-8c03b6e58b61",
+            "url": "https://images.dogapi.dog/01v98q4ttqulz609aw8r5h8i1g44",
+            "thumb": "https://images.dogapi.dog/zpwegcab6hzq09q0eyl8oxf66lve",
+            "medium": "https://images.dogapi.dog/f57sae5b2xqi6pxdq6r8tw1h4c8t",
+            "large": "https://images.dogapi.dog/21mg55zlym6nq3o6cm56v0itkdad",
+            "attribution": {
+              "author": "Futurebreak",
+              "license": "CC0",
+              "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:Affenpinscher_breed.jpg"
+            }
+          },
+          {
+            "id": "add89f7d-2d3c-4e45-9752-8691c2ed5324",
+            "url": "https://images.dogapi.dog/6yxkty9uxjqu88oaatkeh61gudor",
+            "thumb": "https://images.dogapi.dog/lb77ge24lydsghqozajjik9fyw8u",
+            "medium": "https://images.dogapi.dog/t78mfk32frxrfsr9hipqqtfnj4zc",
+            "large": "https://images.dogapi.dog/wtkz5owjefxeuylfeag1gmf43pqb",
+            "attribution": {
+              "author": "Kristy May for Pets Advisor www.petful.com - Uploaded at Petful",
+              "license": "CC BY 2.0",
+              "license_url": "https://creativecommons.org/licenses/by/2.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:2013_Westminster_Kennel_Club_Dog_Show-_Affenpinscher_Joey_aka_GCH_Banana_Joe_V_Tani_Kazari_(8471258772).jpg"
+            }
+          },
+          {
+            "id": "c420f1a0-9454-474c-809f-954446f48bd7",
+            "url": "https://images.dogapi.dog/8lptcmlr1ylr265h6shsfwua2idf",
+            "thumb": "https://images.dogapi.dog/a4xyyfhapi8l1iu06enashwk4egp",
+            "medium": "https://images.dogapi.dog/ha7k56brvumrrj9te6zeeo24e4a0",
+            "large": "https://images.dogapi.dog/gwljgkjtpnucrbrg7miuy0wpckh8",
+            "attribution": {
+              "author": "Canarian",
+              "license": "CC BY-SA 4.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:Affenmonkeyterrier2.jpg"
+            }
+          },
+          {
+            "id": "b22ff870-07d0-4a18-a897-0419277b3896",
+            "url": "https://images.dogapi.dog/3mjei7crtj3n6k91c58l1l22cstx",
+            "thumb": "https://images.dogapi.dog/2jn8hgh7pbcmr61o3onzps32rktk",
+            "medium": "https://images.dogapi.dog/woyyys6aiu898tond7k94hdobdn0",
+            "large": "https://images.dogapi.dog/ceqsyyna5ld6w38sbnbcayn6kvwr",
+            "attribution": {
+              "author": "Canarian",
+              "license": "CC BY-SA 4.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:Affenmonkeyterrier1.jpg"
+            }
+          },
+          {
+            "id": "2630919f-1e2f-4f61-8dee-d45dd210fcbf",
+            "url": "https://images.dogapi.dog/n7744jfcvqqyzbfhijufg6ts425g",
+            "thumb": "https://images.dogapi.dog/1ca7aaa97h2td3ewlfjhtu39vnia",
+            "medium": "https://images.dogapi.dog/rbklrrt7f342am75iy8qh4w8a07r",
+            "large": "https://images.dogapi.dog/6fcviprreq0kvi32m1xr9w79r4fs",
+            "attribution": {
+              "author": "Dean Jarvey",
+              "license": "CC BY 2.0",
+              "license_url": "https://creativecommons.org/licenses/by/2.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:Affenpinscher_Molly.jpg"
+            }
+          },
+          {
+            "id": "389ca71e-b7a3-4479-8b23-bdddfd6360f3",
+            "url": "https://images.dogapi.dog/pgoq54fr38jriujrasgrs3imp3s8",
+            "thumb": "https://images.dogapi.dog/t63993bumuk5mbwwi5epwca3xvu7",
+            "medium": "https://images.dogapi.dog/z61xlg48xwfz3322g9t3qbbq1blb",
+            "large": "https://images.dogapi.dog/4fzigpxstbc13fzq5nls1uz6rrq1",
+            "attribution": {
+              "author": "Canarian",
+              "license": "CC BY-SA 4.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:DocFile_Affen.jpg"
+            }
+          },
+          {
+            "id": "924b2250-aa63-4748-b5fd-4a37610e8305",
+            "url": "https://images.dogapi.dog/ieizqit2kj9u37u91xhc72chonf4",
+            "thumb": "https://images.dogapi.dog/uaguusuhfcbf4mbufrlhqbxru1gk",
+            "medium": "https://images.dogapi.dog/06kqofhkn4nyt66z4kygzo2uh1m5",
+            "large": "https://images.dogapi.dog/5b2systb0rx3ejl17eieyo21agg4",
+            "attribution": {
+              "author": "Plank",
+              "license": "CC BY 3.0",
+              "license_url": "https://creativecommons.org/licenses/by/3.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:Jack_Russell_Terrier_1.jpg"
+            }
+          },
+          {
+            "id": "1f7b5d92-94c1-4b8d-a8d5-0defe250ee66",
+            "url": "https://images.dogapi.dog/v7wjr2t5wpqq68omjmug997rdm64",
+            "thumb": "https://images.dogapi.dog/94ebsxkmnwqs1huksmo72jv6hvtu",
+            "medium": "https://images.dogapi.dog/zekkafjq6oeuf5bke5tk9jnj6zs4",
+            "large": "https://images.dogapi.dog/qbeb9qqyfyriy3cgw4wn2ngzp1n8",
+            "attribution": {
+              "author": "Lori Branham",
+              "license": "CC BY 2.0",
+              "license_url": "https://creativecommons.org/licenses/by/2.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:An_Affenpinscher.jpg"
+            }
+          },
+          {
+            "id": "a87b8ed1-b59a-4cc5-ba8f-5c0785525d6d",
+            "url": "https://images.dogapi.dog/4a1braqd9nlauw7lnyfkeg4ln2a5",
+            "thumb": "https://images.dogapi.dog/7vw0cywn4tkv3ag7xt8rl3b3vtbs",
+            "medium": "https://images.dogapi.dog/sl6jyywxo5hobdkktvao64e3j1ps",
+            "large": "https://images.dogapi.dog/j3j60yxlz6uz868vspos61g7k3k9",
+            "attribution": {
+              "author": "Canarian",
+              "license": "CC BY 4.0",
+              "license_url": "https://creativecommons.org/licenses/by/4.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:Apinapinseri.jpg"
+            }
+          }
+        ]
+      },
+      "relationships": {
+        "group": {
+          "data": {
+            "id": "f56dc4b1-ba1a-4454-8ce2-bd5d41404a0c",
+            "type": "group"
+          }
+        }
+      }
+    },
+    {
+      "id": "dd9362cc-52e0-462d-b856-fccdcf24b140",
+      "type": "breed",
+      "attributes": {
+        "name": "Afghan Hound",
+        "description": "The Afghan Hound is a large and elegant breed of dog that was originally bred in Afghanistan for hunting small game. They are intelligent, independent, and athletic, and make excellent companion dogs.",
+        "life": {
+          "max": 14,
+          "min": 12
+        },
+        "male_weight": {
+          "max": 27,
+          "min": 23
+        },
+        "female_weight": {
+          "max": 25,
+          "min": 20
+        },
+        "hypoallergenic": false,
+        "male_height": {
+          "max": 71,
+          "min": 66
+        },
+        "female_height": {
+          "max": 66,
+          "min": 61
+        },
+        "origin": {
+          "era": "ancient, thousands of years old",
+          "country": "Afghanistan"
+        },
+        "coat": {
+          "type": "long",
+          "colors": [
+            "fawn",
+            "gold",
+            "cream",
+            "red",
+            "black",
+            "brindle",
+            "blue",
+            "gray",
+            "white",
+            "tricolour"
+          ],
+          "length": "long"
+        },
+        "traits": {
+          "energy": 4,
+          "barking": 2,
+          "drooling": 1,
+          "grooming": 5,
+          "shedding": 2,
+          "temperament": [
+            "dignified",
+            "aloof",
+            "independent",
+            "aristocratic",
+            "gentle",
+            "clownish"
+          ],
+          "trainability": 2,
+          "good_with_dogs": 3,
+          "exercise_minutes": 45,
+          "apartment_friendly": 2,
+          "good_with_children": 3,
+          "good_with_strangers": 2
+        },
+        "other_names": [
+          "Tazi",
+          "Balkh Hound",
+          "Baluchi Hound",
+          "Barakzai Hound"
+        ],
+        "recognized_by": [
+          "AKC",
+          "FCI",
+          "UKC",
+          "KC",
+          "CKC",
+          "ANKC",
+          "NZKC"
+        ],
+        "sources": [
+          {
+            "url": "https://images.akc.org/pdf/breeds/standards/AfghanHound.pdf",
+            "title": "Official Standard of the Afghan Hound - AKC"
+          },
+          {
+            "url": "https://afghanhoundclubofamerica.org/index.php/information/breed-standard",
+            "title": "Afghan Hound Club of America - Breed Standard"
+          },
+          {
+            "url": "https://www.ukcdogs.com/afghan-hound",
+            "title": "Breed Standards: Afghan Hound - United Kennel Club (UKC)"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Afghan_Hound",
+            "title": "Afghan Hound - Wikipedia"
+          },
+          {
+            "url": "https://www.hillspet.com/dog-care/dog-breeds/afghan-hound",
+            "title": "Afghan Hound Dog Breed - Hill's Pet"
+          },
+          {
+            "url": "https://showsightmagazine.com/dog-breeds/afghan-hound/",
+            "title": "Afghan Hound Dog Breed and Characteristics - ShowSight Magazine"
+          }
+        ],
+        "images": [
+          {
+            "id": "798056d5-89e1-45c2-ad63-55d7e57f758d",
+            "url": "https://images.dogapi.dog/5xtxxxvsi6aib3e9diglsqkkiztp",
+            "thumb": "https://images.dogapi.dog/y6y2na0wk7pymv0sc4qy5pxcnopz",
+            "medium": "https://images.dogapi.dog/f0t6j6yhrj9asbbi6c1mddv6klqm",
+            "large": "https://images.dogapi.dog/issmoegbcrewau20uk35f3ivs0nw",
+            "attribution": {
+              "author": "SheltieBoy",
+              "license": "CC BY 2.0",
+              "license_url": "https://creativecommons.org/licenses/by/2.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:AKC_Helena_Fall_Dog_Show_2011.jpg"
+            }
+          },
+          {
+            "id": "3d076b5f-8c8a-44df-ba3d-192fee368aff",
+            "url": "https://images.dogapi.dog/6dnfj0bpp9a9qtg1qdgytwmrpk9s",
+            "thumb": "https://images.dogapi.dog/x8186a9e9uuprqjfvrcjmrhrb1di",
+            "medium": "https://images.dogapi.dog/eyni9w2udihw38jlcl4az0yuq8xd",
+            "large": "https://images.dogapi.dog/ecwxjjwoh960d3ik566mlti0oyf4",
+            "attribution": {
+              "author": "Jessie Pearl",
+              "license": "CC BY 2.0",
+              "license_url": "https://creativecommons.org/licenses/by/2.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:Afghan_Hound3.jpg"
+            }
+          },
+          {
+            "id": "124be8f9-f75f-4a25-a4fd-3b4ec4ec03cc",
+            "url": "https://images.dogapi.dog/mwchuoza6vhshd9t6h990815ne13",
+            "thumb": "https://images.dogapi.dog/4c1z3gdqelgkylz6mepggje8fu8h",
+            "medium": "https://images.dogapi.dog/uk14640n6jl9idth3bh062l3nuiw",
+            "large": "https://images.dogapi.dog/5ihkqeisjvzx184cczy1myh6t63h",
+            "attribution": {
+              "author": "SheltieBoy",
+              "license": "CC BY 2.0",
+              "license_url": "https://creativecommons.org/licenses/by/2.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:111_AKC_Afghan_Hound_Dog_Show_2011.jpg"
+            }
+          },
+          {
+            "id": "12391eba-8c80-4b0c-a7a1-44918249ab35",
+            "url": "https://images.dogapi.dog/k5wym4jrwyfh28egsmo7gjkybzxb",
+            "thumb": "https://images.dogapi.dog/u4flnv72z94q37dj0mggmnvqpc72",
+            "medium": "https://images.dogapi.dog/7k2aulnm2rgeg4z9dmgxecgvohrk",
+            "large": "https://images.dogapi.dog/4l49j22pv39n4j7c6r8m9adxsiq2",
+            "attribution": {
+              "author": "Jurriaan Schulman",
+              "license": "CC BY-SA 3.0",
+              "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:Afghan-Hound.jpg"
+            }
+          },
+          {
+            "id": "e390c8f6-a961-4bc0-a538-deefe1180031",
+            "url": "https://images.dogapi.dog/cph9o47lhktn4w1zaxu0kwkbrg0y",
+            "thumb": "https://images.dogapi.dog/68jnpyb5ayv33hdskcgtv8d0kumf",
+            "medium": "https://images.dogapi.dog/js4q6zp2qer882psxx4aogxu9x8s",
+            "large": "https://images.dogapi.dog/o3i8do968506l2bps2ngj8v1q5tk",
+            "attribution": {
+              "author": "Pets Adviser from Brooklyn, USA",
+              "license": "CC BY 2.0",
+              "license_url": "https://creativecommons.org/licenses/by/2.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:2013_Westminster_Kennel_Club_Dog_Show-_Afghan_Hound_GCH_Exlysta_Aries_Ciel_Noir_(8466458963).jpg"
+            }
+          },
+          {
+            "id": "bc2f20dc-2728-43af-8c24-015da33b0d2a",
+            "url": "https://images.dogapi.dog/d5oz6w6mdg0n1kwvblb46z0qgmjf",
+            "thumb": "https://images.dogapi.dog/9p2d82oumd9x935iowt3abiompg0",
+            "medium": "https://images.dogapi.dog/ml2cdymfg9w1eia37s4xradvldtk",
+            "large": "https://images.dogapi.dog/6384umnrfuvju7go2h5jx08ig184",
+            "attribution": {
+              "author": "Томасина",
+              "license": "CC BY-SA 3.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:Afghan_Hound_2.JPG"
+            }
+          },
+          {
+            "id": "0314f14c-b4cf-4df3-be5f-63d033e9763f",
+            "url": "https://images.dogapi.dog/6i66vbh5n687sxg6hk36m98rzs47",
+            "thumb": "https://images.dogapi.dog/bgl9ymrtoxrcc3a8t5q88wi8fjxu",
+            "medium": "https://images.dogapi.dog/zml8tgjoz3d3607swplda1b1ko8k",
+            "large": "https://images.dogapi.dog/jflazaw7az621ygl7cgdpf2tu0z9",
+            "attribution": {
+              "author": "Losch",
+              "license": "CC BY-SA 3.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:Black_Labrador_Retriever_-_Male_IMG_3323_(cropped).jpg"
+            }
+          }
+        ]
+      },
+      "relationships": {
+        "group": {
+          "data": {
+            "id": "be0147df-7755-4228-b132-2518c0c6d10d",
+            "type": "group"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "records": 48
+    }
+  }
+}

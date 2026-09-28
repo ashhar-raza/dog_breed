@@ -1,0 +1,11 @@
+{
+  "name": "dog-breed-root",
+  "version": "1.0.0",
+  "description": "Dog Breed Explorer - monorepo root",
+  "scripts": {
+    "start": "concurrently --names \"BACKEND,FRONTEND\" --prefix-colors \"cyan,magenta\" \"cd backend && node app.js\" \"cd frontend && npm run dev\""
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.5"
+  }
+}
